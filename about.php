@@ -378,14 +378,14 @@
 							<div class="row">
 							<div class="col-12 text-right">
 							<h3>Follow Us</h3>
-							<a target="_blank" href="https://www.linkedin.com/company/thinkpalm-technologies-pvt-ltd/">
-                                <img src="https://d24hrkfl5wrd0k.cloudfront.net/themes/thinkpalm/images/ico_in.png" alt=""></a>
+							<a target="_blank" href=" https://www.linkedin.com/in/peeyush-itara-2418a1155 ">
+                                <img src=" " alt=""></a>
 							<a target="_blank" href="https://twitter.com/ThinkPalm">
-                                <img src="https://d24hrkfl5wrd0k.cloudfront.net/themes/thinkpalm/images/ico_twiiter.png" alt=""></a>
+                                <img src=" " alt=""></a>
 							<a target="_blank" href="https://www.facebook.com/ThinkPalm/">
-                                <img src="https://d24hrkfl5wrd0k.cloudfront.net/themes/thinkpalm/images/ico_fb.png" alt=""></a>
+                                <img src=" " alt=""></a>
 							<a target="_blank" href="https://www.instagram.com/thinkpalmtech/">
-                                <img src="https://d24hrkfl5wrd0k.cloudfront.net/themes/thinkpalm/images/ico_pinterest.png" alt=""></a>
+                                <img src=" https://www.instagram.com/softweb.io/" alt=""></a>
 							<a target="_blank" href="https://www.youtube.com/channel/UCoGDAUTUd_dpfyYotFVU8zQ"><img src="https://d24hrkfl5wrd0k.cloudfront.net/themes/thinkpalm/images/ico_youtube.png" alt=""></a>
 							</div>
 							</div>
