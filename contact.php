@@ -355,16 +355,14 @@
                         <div class="col-12 text-right">
                             <h3>Follow Us</h3>
                             <a target="_blank"
-                                href="https://www.linkedin.com/company/thinkpalm-technologies-pvt-ltd/"><img
-                                    src="https://thinkpalm.com/wp-content/themes/thinkpalm/images/ico_in.png"
+                                href="https://www.linkedin.com/in/peeyush-itara-2418a1155 "><img
+                                    src=" "
                                     alt=""></a>
-                            <a target="_blank" href="https://twitter.com/ThinkPalm"><img
+                            <a target=" "><img
                                     src="https://thinkpalm.com/wp-content/themes/thinkpalm/images/ico_twiiter.png"
                                     alt=""></a>
-                            <a target="_blank" href="https://www.facebook.com/ThinkPalm/"><img
-                                    src="https://thinkpalm.com/wp-content/themes/thinkpalm/images/ico_fb.png"
-                                    alt=""></a>
-                            <a target="_blank" href="https://www.instagram.com/thinkpalmtech/"><img
+                           
+                            <a target="_blank" href=" https://www.instagram.com/softweb.io/"><img
                                     src="https://thinkpalm.com/wp-content/themes/thinkpalm/images/ico_pinterest.png"
                                     alt=""></a>
                             <a target="_blank" href="https://www.youtube.com/channel/UCoGDAUTUd_dpfyYotFVU8zQ"><img
